@@ -1,6 +1,6 @@
 # YmlObject
 
-TODO: Write a gem description
+Read a Yml file, use it like an object.
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+See the rspec test
 
 ## Contributing
 

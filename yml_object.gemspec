@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = YmlObject::VERSION
   spec.authors       = ["Jason Heylon"]
   spec.email         = ["jasonheylon@gmail.com"]
-  spec.summary       = %q{Load YML file to a object}
-  spec.description   = %q{Load YML file to a object}
+  spec.summary       = %q{Load YML file, use it like an object}
+  spec.description   = %q{Load YML file, use it like an object}
   spec.homepage      = ""
   spec.license       = "MIT"
 
